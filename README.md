@@ -1,7 +1,7 @@
 # 🌻 Image & Video Viewer  
 
 A lightweight, flexible media preview library — supports **images and videos**.  
-  **Easy to use**, minimal setup, and mobile friendly.
+  **Easy to use**, minimal setup, and mobile friendly.  [Visit Example Page](https://suraj-repositories.github.io/media-viewer/)
  
 
 ## 🪶 Screenshots
